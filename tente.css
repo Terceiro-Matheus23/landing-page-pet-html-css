@@ -1,0 +1,90 @@
+*{
+    font-family: Montserrat, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cabeca{
+color: #989D9C ;
+font-size: 18px;
+line-height: 29px;
+margin-right: 23px;
+margin-left: 56px;
+margin-top: 44px;
+margin-bottom: 144px;
+;
+
+}
+
+
+.botao{
+    background: #665AE1;
+    color: white;
+    padding: 8px;
+    border-radius: 20px;
+    border: none;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    margin-right: 23px;
+    width: 130px;
+    height: 41px;
+    cursor: pointer;
+}
+
+.imagem{
+width: 568px;
+height: 500px;
+margin-left: 72px;
+margin-right: 71px;
+
+
+}
+
+.caixa{
+ display: flex;
+    
+}
+
+section{
+    display: inline-block;
+    align-items: center;
+}
+
+p{
+color: #848484;
+line-height: 41px;
+font-weight: 400;
+font-size: 24px;
+width: 515px;
+
+}
+
+h1{
+    color: #515151;
+    line-height: 71px;
+    font-size: 100px;
+    font-weight: 500;
+}
+
+h2{
+    color: #515151;
+    font-size: 28px;
+    line-height: 71px;
+    
+}
+
+.botao2{
+    background: #ADFF00;
+    color: black;
+    font-size: 26px;
+    font-weight: 50px;
+    border-radius: 20px;
+    border: none;
+    width: 239px;
+    height: 64px;
+    cursor: pointer;
+    
+    
+}
